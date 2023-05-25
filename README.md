@@ -4,14 +4,14 @@ L'objectif de ce projet est de réaliser une librairie de classes et fonctions p
 En effet, les classes réalisées permettent : 
 1. De créer des graphes orientés ou non orientés,
 2. De faire des opérations "élémentaires" sur un graphe,
-3. D'afficher à l'écrand un graphe
+3. D'afficher à l'écran un graphe
 
 ## Contraintes techniques 
 
 Pour la réalisation de notre projet, nous avons respecté les quelques contraintes énoncées ci-dessous :
-1. Les variables, types, classes, fonction et méthodes respectent les conventions de nommage,
+1. Les variables, types, classes, fonctions et méthodes respectent les conventions de nommage,
 2. Les bonnes pratiques du Génie Logiciel telles qu’elles ont pu être présentées lors des cours d’Algorithmes Orientés Objets et de Langages Orientés Objets ont été mises en œuvre.
-3. Nous avons intégré la gestion des exceptions dans notre programme : nous avons utilisé pour cela la classe Cexception vue en TPs.
+3. Nous avons intégré la gestion des exceptions dans notre programme : nous avons utilisé pour cela la classe CException vue en TPs.
 4. Nous avons travaillé sous Visual Studio et notre projet est une application console win32.
 
 
@@ -64,10 +64,10 @@ Aucun pré-requis n'est nécessaire.
 
 ## Démarrage
 
-Une fois l'installation terminée, vous pouvez placer l'exécutable `` ProjetC++.exe`` où vous voulez.
+Une fois l'installation terminée, vous pouvez placer l'exécutable `` ProjetC++Graphe.exe`` où vous voulez.
 Ensuite, pour exécuter correctement le programme, il vous faut entrer dans le terminal le nom de l'exécutable puis le nom des fichiers textes que vous souhaitez lui passer en argument (attention à bien indiquer le chemin des fichiers textes s'ils ne sont pas dans le même répertoire que l'exécutable).
 
-_exemple_: Exécutez la commande ``ProjetC++ G1.txt G2.txt G3.txt G4.txt`` et le programme s'exécutara avec les fichiers G1, G2, G3 et G4 en argument.
+_exemple_: Exécutez la commande ``ProjetC++Graphe G1.txt G2.txt G3.txt G4.txt`` et le programme s'exécutera avec les fichiers G1, G2, G3 et G4 en argument.
 
 
 ## Développé avec
